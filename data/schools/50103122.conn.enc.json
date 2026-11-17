@@ -1,0 +1,10 @@
+{
+  "version": "ERAPOR-SERVER-AES256-GCM-V1",
+  "algorithm": "aes-256-gcm",
+  "saltHex": "0c0b7473b986fc850f3bf9f60ef42037",
+  "ivHex": "e5dba6340cb8980d416efba0",
+  "authTagHex": "cde4824da6094a0eb1ee87a311595c6d",
+  "ciphertextB64": "R1Cyhdj+nIi84z3jwSeV1f8C2bDMq9no+9W8glFV/1eHXrEieMi70aDqMu/qFBghMX5Oes37PuafkhFQdJzPK6dcbiLR3PZhBQ813nzrsCEQJmwTCoceuBCqKM9hfOODPJJlmqtsnnWHIMTwh8+yfJgGbeVKjtaUd39uxJWHKM4gdCqvkYWi1UyO65F7SlPl6/6l8WFhlGsO23OdF48k2vSj2YTtai0qzDnkCSPhc5kIm7p1fL6HJTl3/0HtuimMbkyq32FXnexvPLkmnsBFcYuNOf39m4UV1c8wuuh27YWs67Il0K2N54lRIlvCuirHvp6LgXctR2p8XOprTS5e4dDdiAgyUeG0GdJcHGxncD5vUykOmZytREPZlBetQxOpaAJRBL4jQDc3wK5uDTTl7EP4evpjqdl22HQpfHaEorB0uV6vhcbyh3Y=",
+  "sha256": "9db3f3903449e34b4e9829b58db26a4acb62379ba987c7d14e433ad25b931e54",
+  "updatedAt": "2026-11-16T13:09:28.858Z"
+}

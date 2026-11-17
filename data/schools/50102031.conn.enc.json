@@ -1,0 +1,10 @@
+{
+  "version": "ERAPOR-SERVER-AES256-GCM-V1",
+  "algorithm": "aes-256-gcm",
+  "saltHex": "58839afb9bd7c657c957b44be99db157",
+  "ivHex": "52feea421a8f16b4b48cbe97",
+  "authTagHex": "e339b4e7168cfbf4a2d29d669a9b1bf8",
+  "ciphertextB64": "c7EfDXvclaKJUQZwCH+VsBMscB1h4taSyvf4zYMfAfCKjv+04tBrsdwOIKzaS5w80dSizuN318PmVd50BaEEYTNtZWiC4eLOwEHgqZixd0J2d9+x8PJgbKvTSKuQ57I9RAuuWOoG8N+U7AQwRQBpU3qu+oKf3aSuU/Ovhh+GbKNs/uG+PFQvDwQI4//JerHuRVKkVGwyGKSxzXHUoAAcPZzJ+OEcN+4ZvBjA/CUAzzADv0pAnHm6PufpG6CuLQwO+OMidW5NbeKkw7zYBoMgHHSSol7YLepDvlRpR6cqCfnOxOcAtA/9U/ad1mAlKVl+KEZabp6F7ZphGZ4f111xhmNj2nRetHxEenALOyeZ1Hjtn2KDULHtBV8NkxkBrquzE2dKNk9dgamnR9yliZQLzI+6RdPy9sfoyDdvWA90paZ1XIk19+HEimx18U6X0dlqjIgrmRdPw2r6pWQwwKsbbZY+TwGjYCxt30u0/GgTFioCoIHz4Ky+iACUUUXVhjQ8hWuf3g870EtAHoOJrMU8bElKfa4jyrHmvKMTB9OveqdJZQ==",
+  "sha256": "1495fdb0e8680ce13efbab2322cb0f0efe76efb7c9f5e855ba786c272292a82c",
+  "updatedAt": "2026-11-16T13:41:32.266Z"
+}

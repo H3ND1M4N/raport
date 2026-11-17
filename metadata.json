@@ -1,0 +1,6 @@
+{
+  "name": "e-Rapor Dapodik Nusantara",
+  "description": "Aplikasi e-Rapor Kemdikdasmen yang terhubung real-time secara read-only dengan Dapodik sekolah, dilengkapi enkripsi AES-256-GCM, dukungan offline PWA, dan laporan otomatis guru serta kepala sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
